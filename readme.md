@@ -17,3 +17,8 @@ Again, please dont use it like it is now!!!!
 Image:
 --------------
 ![alt text](http://puu.sh/syhUW/723d990e43.png "Working Interface")
+
+
+Sidenote:
+--------------
+I made a whole webinterface completly for SidewaysInc servers and this is just a "ripoff". If you cant develop yourself but want more functions (user-, mod-, or some other management-functions) you can ask me to develop them. But that wont be for free because i have to invest my private time for it. Well, this is for free and i hope you have fun with it :)
