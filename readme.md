@@ -4,7 +4,7 @@ Fivereborn Webmanager
 How to use:
 --------------
 
-Edit the index.php like you need it. Change Sitename and add Servers. Upload it to your webserver and have fun.
+Edit the index.php like you need it. Change sitename and add servers. Upload it to your webserver and have fun.
 
 
 IMPORTANT:
