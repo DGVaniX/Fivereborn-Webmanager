@@ -44,9 +44,9 @@ if (isset($_GET['action'])) {
 				die();
 			}		
 		}
-	} else if($action == "ban") {
+	} else if ($action == "ban") {
+		foreach ($serverinfo as $server) {
 			if($server['0'] == $server_id){
-				
 				$con = new q3query($server['2'], $server['3'], $success);
 				if (!$success) {
 					die ("Fehler bei der Verbindungherstellung");
@@ -57,6 +57,7 @@ if (isset($_GET['action'])) {
 				header( "refresh:3;url=index.php" );
 				die();
 			}
+		}
 	}
 ?>
 
