@@ -1,4 +1,4 @@
-Fivereborn Webmanager
+Fivereborn Webmanager [OUTDATED / DEPRICATED]
 ==============
 
 How to use:
